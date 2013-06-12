@@ -12,6 +12,9 @@
   if !latestProcessed?
     console.log "No posts have been processed yet! This will grab 50 of the latest."
   else
+    if @NewestPostID is latestProcessed.id
+      @FetchingPosts = false
+      return
     @NewestPostID = latestProcessed.id
     console.log "Starting at post ID: "+@NewestPostID
     request = request.after(@NewestPostID)

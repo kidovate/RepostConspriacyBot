@@ -20,7 +20,7 @@
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery/jquery.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371065713991" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/handlebars/evaluate.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1370993852449" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/templating/deftemplate.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371064826385" ignored="false" />
-    <file path="/PostQueue.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371006158275" ignored="false" />
+    <file path="/PostQueue.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371076711365" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/minimongo/minimongo.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371006197869" ignored="false" />
     <file path="/PostQueueProcessor.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371049020991" ignored="false" />
     <file path="/IgnoreList.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371005652847" ignored="false" />
@@ -63,7 +63,7 @@
       <file leaf-file-name="repostbot.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/repostbot.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="0" selection-start="2012" selection-end="2012" vertical-scroll-proportion="-5.4">
+            <state line="66" column="0" selection-start="2012" selection-end="2012" vertical-scroll-proportion="-6.3">
               <folding />
             </state>
           </provider>
@@ -96,19 +96,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommentPoster.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="CommentPoster.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/utils/CommentPoster.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="28" selection-start="411" selection-end="411" vertical-scroll-proportion="-0.65217394">
+            <state line="1" column="34" selection-start="64" selection-end="64" vertical-scroll-proportion="-0.6">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PostQueue.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="PostQueue.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/utils/PostQueue.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="84" selection-start="478" selection-end="478" vertical-scroll-proportion="-3.6">
+            <state line="16" column="12" selection-start="570" selection-end="570" vertical-scroll-proportion="0.25">
               <folding />
             </state>
           </provider>
@@ -552,13 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/utils/LoginManager.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="29" selection-start="174" selection-end="201" vertical-scroll-proportion="-3.6">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/utils/PostQueueProcessor.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="14" selection-start="805" selection-end="805" vertical-scroll-proportion="-6.9">
@@ -573,23 +566,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/repostbot.coffee">
+    <entry file="file://$PROJECT_DIR$/server/utils/LoginManager.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="0" selection-start="2012" selection-end="2012" vertical-scroll-proportion="-5.4">
+        <state line="6" column="29" selection-start="174" selection-end="201" vertical-scroll-proportion="-3.6">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/utils/PostQueue.coffee">
+    <entry file="file://$PROJECT_DIR$/server/repostbot.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="84" selection-start="478" selection-end="478" vertical-scroll-proportion="-3.6">
+        <state line="66" column="0" selection-start="2012" selection-end="2012" vertical-scroll-proportion="-6.3">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/utils/CommentPoster.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="28" selection-start="411" selection-end="411" vertical-scroll-proportion="-0.65217394">
+        <state line="1" column="34" selection-start="64" selection-end="64" vertical-scroll-proportion="-0.6">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/utils/PostQueue.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="12" selection-start="570" selection-end="570" vertical-scroll-proportion="0.25">
           <folding />
         </state>
       </provider>
