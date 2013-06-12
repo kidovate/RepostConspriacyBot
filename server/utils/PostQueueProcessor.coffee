@@ -23,7 +23,7 @@
         title: postData.title
         score: postData.score
         numrepost: null
-        date: (new Date().getTime())
+        date: postData.created_utc
       continue
 
 
@@ -48,7 +48,7 @@
       title: postData.title.replace("|", "-")
       score: postData.score
       numrepost: rposts.length-1
-      date: postData.created
+      date: postData.created_utc
 
     if rposts.length > 1
       #uh-oh, repost alert
