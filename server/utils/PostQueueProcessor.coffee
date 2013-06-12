@@ -10,6 +10,9 @@
     postData = item.data
     #From here we can get title --> postData.title
     #console.log "Processing post: "+postData.title
+    #ignore if it is already processed
+    if @ProcessedPosts.findOne(id: postData.id)?
+      continue
 
     #Ignore if domain is in the ignore list
     if postData.domain in @IgnoredDomains
