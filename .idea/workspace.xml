@@ -33,7 +33,7 @@
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/livedata/livedata_connection.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371004598826" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/http/httpcall_common.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371065235765" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/livedata/livedata_server.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371004598826" ignored="false" />
-    <file path="/CommentFormatter.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371078233796" ignored="false" />
+    <file path="/CommentFormatter.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371078999978" ignored="false" />
     <file path="/LoginManager.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371052012870" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/ejson/ejson.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371064918783" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/ejson/ejson.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371052244922" ignored="false" />
@@ -81,7 +81,7 @@
       <file leaf-file-name="CommentFormatter.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/utils/CommentFormatter.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="250" selection-start="687" selection-end="687" vertical-scroll-proportion="0.3345725">
+            <state line="14" column="19" selection-start="716" selection-end="716" vertical-scroll-proportion="0.39033458">
               <folding />
             </state>
           </provider>
@@ -605,7 +605,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/utils/CommentFormatter.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="250" selection-start="687" selection-end="687" vertical-scroll-proportion="0.3345725">
+        <state line="14" column="19" selection-start="716" selection-end="716" vertical-scroll-proportion="0.39033458">
           <folding />
         </state>
       </provider>
