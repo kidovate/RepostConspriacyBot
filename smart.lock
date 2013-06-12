@@ -1,0 +1,21 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "reddit": {},
+      "cron-tick": {}
+    },
+    "packages": {
+      "reddit": {
+        "git": "https://github.com/kidovate/meteor-reddit.git",
+        "tag": "v0.1.2",
+        "commit": "81e3e6df82a588bca5395fa543a9570d715d550d"
+      },
+      "cron-tick": {
+        "git": "https://github.com/tmeasday/meteor-cron.git",
+        "tag": "v0.0.3",
+        "commit": "977a53e790e86b57479ef754a0560461ec9ad22c"
+      }
+    }
+  }
+}
