@@ -51,19 +51,20 @@ Meteor.startup ->
   mainLoop()
 
 mainLoop = ()->
-  try
-    for time, i in @RequestHistory
-      if time < (new Date().getTime())-60000
-        @RequestHistory.splice(i, 1)
-        @RequestCount = @RequestHistory.length
-        #console.log "Popped request, count: "+@RequestCount
+  #try
+  for time, i in @RequestHistory
+    if time < (new Date().getTime())-60000
+      @RequestHistory.splice(i, 1)
+      @RequestCount = @RequestHistory.length
+      #console.log "Popped request, count: "+@RequestCount
 
-    if not @FetchingPosts and @RequestCount < @RequestLimit
-      @ProcessPostQueue()
-      @BuildPostQueue()
-  catch error
-    console.log "Error: "+EJSON.stringify error
-    console.log "Recovering from error..."
+  if not @FetchingPosts and @RequestCount < @RequestLimit
+    @ProcessPostQueue()
+    @BuildPostQueue()
+  #catch error
+    #console.log "Error: "+EJSON.stringify error
+   # console.log "Recovering from error..."
+   # @FetchingPosts = false
 
   #This job will get called once after 1 second
   CoreLoop.addScheduleJob(Math.round((new Date()).getTime() / 1000) + 1, ()->

@@ -4,7 +4,7 @@
     <list default="true" id="ae69d022-b00c-4b2d-af58-661ea7188a10" name="Default" comment="" />
     <ignored path="repostbot.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/repostbot.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371077686649" ignored="false" />
+    <file path="/repostbot.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371080754526" ignored="false" />
     <file path="$USER_HOME$/Dropbox/meteor/HandsonRedditMeteor/README.md" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1370982226684" ignored="false" />
     <file path="/README.md" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1370982225853" ignored="false" />
     <file path="$USER_HOME$/Dropbox/meteor/HandsonRedditMeteor/smart.json" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1370982262161" ignored="false" />
@@ -17,16 +17,16 @@
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/spark/spark.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371004758536" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/livedata/sockjs-0.3.4.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371065235765" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/reload/reload.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1370993852449" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery/jquery.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371065713991" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery/jquery.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371080768334" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/handlebars/evaluate.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1370993852449" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/templating/deftemplate.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371064826385" ignored="false" />
-    <file path="/PostQueue.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371076711365" ignored="false" />
+    <file path="/PostQueue.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371080671917" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/minimongo/minimongo.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371006197869" ignored="false" />
-    <file path="/PostQueueProcessor.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371079768834" ignored="false" />
+    <file path="/PostQueueProcessor.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371080791112" ignored="false" />
     <file path="/IgnoreList.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371079689896" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/meteor/client_environment.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371002693724" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/meteor/server_environment.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371002693724" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/mongo-livedata/mongo_driver.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371006197869" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/mongo-livedata/mongo_driver.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371080768334" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/livedata/livedata_connection.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371004598826" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/random/random.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371004598826" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/random/random.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371004758536" ignored="false" />
@@ -63,7 +63,7 @@
       <file leaf-file-name="repostbot.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/repostbot.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="23" selection-start="1474" selection-end="1474" vertical-scroll-proportion="-11.64">
+            <state line="66" column="27" selection-start="2027" selection-end="2027" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -90,7 +90,7 @@
       <file leaf-file-name="PostQueueProcessor.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/utils/PostQueueProcessor.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="23" selection-start="809" selection-end="809" vertical-scroll-proportion="0.38112524">
+            <state line="17" column="61" selection-start="619" selection-end="619" vertical-scroll-proportion="0.23764259">
               <folding />
             </state>
           </provider>
@@ -108,7 +108,7 @@
       <file leaf-file-name="PostQueue.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/utils/PostQueue.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="41" selection-start="304" selection-end="304" vertical-scroll-proportion="-5.4">
+            <state line="32" column="16" selection-start="1022" selection-end="1023" vertical-scroll-proportion="-9.22">
               <folding />
             </state>
           </provider>
@@ -138,10 +138,10 @@
         <option value="$PROJECT_DIR$/.meteor/local/build/app/server/utils/CommentFormatter.coffee" />
         <option value="$PROJECT_DIR$/server/utils/LoginManager.coffee" />
         <option value="$PROJECT_DIR$/server/utils/CommentPoster.coffee" />
-        <option value="$PROJECT_DIR$/server/repostbot.coffee" />
         <option value="$PROJECT_DIR$/server/utils/CommentFormatter.coffee" />
-        <option value="$PROJECT_DIR$/server/utils/PostQueue.coffee" />
         <option value="$PROJECT_DIR$/server/IgnoreList.coffee" />
+        <option value="$PROJECT_DIR$/server/utils/PostQueue.coffee" />
+        <option value="$PROJECT_DIR$/server/repostbot.coffee" />
         <option value="$PROJECT_DIR$/server/utils/PostQueueProcessor.coffee" />
       </list>
     </option>
@@ -561,9 +561,23 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.08108108" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/server/utils/CommentPoster.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="34" selection-start="64" selection-end="64" vertical-scroll-proportion="-0.6">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server/repostbot.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="23" selection-start="1474" selection-end="1474" vertical-scroll-proportion="-11.64">
+        <state line="66" column="27" selection-start="2027" selection-end="2027" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/utils/LoginManager.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="29" selection-start="174" selection-end="201" vertical-scroll-proportion="-3.6">
           <folding />
         </state>
       </provider>
@@ -584,28 +598,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/utils/PostQueue.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="41" selection-start="304" selection-end="304" vertical-scroll-proportion="-5.4">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/utils/CommentPoster.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="34" selection-start="64" selection-end="64" vertical-scroll-proportion="-0.6">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/utils/LoginManager.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="29" selection-start="174" selection-end="201" vertical-scroll-proportion="-3.6">
+        <state line="32" column="16" selection-start="1022" selection-end="1023" vertical-scroll-proportion="-9.22">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/utils/PostQueueProcessor.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="23" selection-start="809" selection-end="809" vertical-scroll-proportion="0.38112524">
+        <state line="17" column="61" selection-start="619" selection-end="619" vertical-scroll-proportion="0.23764259">
           <folding />
         </state>
       </provider>
