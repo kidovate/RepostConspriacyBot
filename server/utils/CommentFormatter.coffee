@@ -8,7 +8,7 @@
     #console.log EJSON.stringify post
     if post.id is originalPost.id
       continue
-    tableEntries += "[Link](http://reddit.com"+post.permalink+")|"+post.score+"|"+post.title+"|"+post.num_comments+"\n"
+    tableEntries += "[Link](http://reddit.com"+post.permalink+")|"+post.score+"|"+post.title.replace("|", "-")+"|"+post.num_comments+"\n"
     entryCount++
   commentText = "This link has already been posted before, here are the other posts:\n\nLink|Score|Title|Comments\n:---|:--:|:--:|---:\n"+tableEntries+"\n\n[**Why?**](http://pastebin.com/raw.php?i=7cWEzCaa)"
 

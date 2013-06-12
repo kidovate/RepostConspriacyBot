@@ -48,13 +48,12 @@
       title: postData.title.replace("|", "-")
       score: postData.score
       numrepost: rposts.length-1
-      date: (new Date().getTime())
+      date: postData.created
 
     if rposts.length > 1
       #uh-oh, repost alert
       console.log "Filing comment for post: "+postData.id+" repost count: "+rposts.length
-
-    @FileComment postData, rposts
+      @FileComment postData, rposts
 
     @RequestCount++
     @RequestHistory.push (new Date().getTime())
