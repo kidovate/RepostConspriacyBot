@@ -28,9 +28,13 @@ CoreLoop = new Cron(1000)
 LoginRefresher = new Cron(900000)
 LoginRefresher.addJob 1, @RenewLoginCreds
 
-CommentQueueCleaner = new Cron(60000)
+CommentQueueCleaner = new Cron(300000)
 CommentQueueCleaner.addJob 1, ->
   CleanCommentQueue()
+
+PostQueueRestarter = new Cron(1800000)
+PostQueueRestarter.addJob 1, ->
+  @NewestPostID = null
 
 CleanCommentQueue = ->
   queuedComments = @CommentQueue.find({posted:false}, {sort: {repostCount: -1}})
