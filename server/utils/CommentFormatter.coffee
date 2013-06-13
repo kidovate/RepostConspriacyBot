@@ -8,9 +8,9 @@
     #console.log EJSON.stringify post
     if post.id is originalPost.id
       continue
-    tableEntries += "[Link](http://reddit.com"+post.permalink+")|"+post.score+"|"+post.title.replace("|", "-")+"|"+post.num_comments+"\n"
+    tableEntries += post.subreddit+"|"+post.score+"|["+post.title.replace("|", "").replace("]", "")+"](http://reddit.com"+post.permalink+")|"+post.num_comments+"\n"
     entryCount++
-  commentText = "This link has been posted "+entryCount+" other times, here is a table if you wish to read any exisiting discussion:\n\nLink|Score|Title|Comments\n:---|:--:|:--:|---:\n"+tableEntries+"\n\n[**Why?**](http://repostconspiracybot.herokuapp.com/)"
+  commentText = "This link has been posted "+entryCount+" other times, here is a table if you wish to read any exisiting discussion:\n\nSubreddit|Score|Title|Comments\n:---|:--:|:--:|---:\n"+tableEntries+"\n\n[**Info + Statistics**](http://repostconspiracybot.herokuapp.com/)"
 
   if entryCount > 3 #filter it down a bit
     @CommentQueue.insert

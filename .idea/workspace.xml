@@ -33,7 +33,7 @@
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/livedata/livedata_connection.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371004598826" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/http/httpcall_common.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371065235765" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/livedata/livedata_server.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371004598826" ignored="false" />
-    <file path="/CommentFormatter.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371078999978" ignored="false" />
+    <file path="/CommentFormatter.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371167579403" ignored="false" />
     <file path="/LoginManager.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371052012870" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/ejson/ejson.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371064918783" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/ejson/ejson.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371052244922" ignored="false" />
@@ -66,10 +66,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="repostbot.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="repostbot.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/repostbot.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="22" selection-start="957" selection-end="957" vertical-scroll-proportion="0.2722323">
+            <state line="78" column="0" selection-start="2342" selection-end="2342" vertical-scroll-proportion="-10.64">
               <folding />
             </state>
           </provider>
@@ -79,6 +79,15 @@
         <entry file="file://$PROJECT_DIR$/client/template.coffee">
           <provider selected="true" editor-type-id="text-editor">
             <state line="20" column="45" selection-start="769" selection-end="769" vertical-scroll-proportion="-12.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommentFormatter.coffee" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/utils/CommentFormatter.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="154" selection-start="618" selection-end="618" vertical-scroll-proportion="0.3345725">
               <folding />
             </state>
           </provider>
@@ -152,7 +161,6 @@
         <option value="$PROJECT_DIR$/smart.json" />
         <option value="$PROJECT_DIR$/.meteor/local/build/app/server/utils/CommentFormatter.coffee" />
         <option value="$PROJECT_DIR$/server/utils/LoginManager.coffee" />
-        <option value="$PROJECT_DIR$/server/utils/CommentFormatter.coffee" />
         <option value="$PROJECT_DIR$/server/IgnoreList.coffee" />
         <option value="$PROJECT_DIR$/client/template.js" />
         <option value="$PROJECT_DIR$/client/style.css" />
@@ -163,6 +171,7 @@
         <option value="$PROJECT_DIR$/server/utils/CommentPoster.coffee" />
         <option value="$PROJECT_DIR$/server/utils/PostQueueProcessor.coffee" />
         <option value="$PROJECT_DIR$/server/repostbot.coffee" />
+        <option value="$PROJECT_DIR$/server/utils/CommentFormatter.coffee" />
       </list>
     </option>
   </component>
@@ -442,13 +451,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/utils/CommentFormatter.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="19" selection-start="716" selection-end="716" vertical-scroll-proportion="-8.4">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/IgnoreList.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="149" selection-start="170" selection-end="170" vertical-scroll-proportion="-0.6">
@@ -532,7 +534,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/repostbot.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="22" selection-start="957" selection-end="957" vertical-scroll-proportion="0.2722323">
+        <state line="78" column="0" selection-start="2342" selection-end="2342" vertical-scroll-proportion="-10.64">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/utils/CommentFormatter.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="154" selection-start="618" selection-end="618" vertical-scroll-proportion="0.3345725">
           <folding />
         </state>
       </provider>
