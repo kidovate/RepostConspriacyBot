@@ -2,6 +2,7 @@
 @ProcessPostQueue = ()->
   if @ProcessingPosts
     return
+  console.log "Processing posts"
   @ProcessingPosts = true
   #Run through the queue of posts and check if it has already been posted before, queue a snotty comment
   deferredPosts = []
@@ -12,6 +13,7 @@
     #console.log "Processing post: "+postData.title
     #ignore if it is already processed
     if @ProcessedPosts.findOne(id: postData.id)?
+      #console.log "Already processed, skipped"
       continue
 
     #Ignore if domain is in the ignore list
@@ -24,11 +26,6 @@
         score: postData.score
         numrepost: null
         date: postData.created_utc
-      continue
-
-
-    #verify it hasn't already been processed
-    if @ProcessedPosts.findOne(id: postData.id)?
       continue
 
     infoUrl = "http://www.reddit.com/api/info.json?url="+encodeURIComponent(postData.url)

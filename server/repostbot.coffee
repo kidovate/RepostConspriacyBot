@@ -28,6 +28,20 @@ CoreLoop = new Cron(1000)
 LoginRefresher = new Cron(900000)
 LoginRefresher.addJob 1, @RenewLoginCreds
 
+CommentQueueCleaner = new Cron(60000)
+CommentQueueCleaner.addJob 1, ->
+  CleanCommentQueue()
+
+CleanCommentQueue = ->
+  queuedComments = @CommentQueue.find({posted:false}, {sort: {repostCount: -1}})
+  console.log "Pruning comment queue down to 15, starting amount "+queuedComments.count()
+  i = 0
+  queuedComments.forEach (post)->
+    i++
+    if i > 15
+      console.log "Removing: "+post._id
+      @CommentQueue.remove({_id: post._id})
+
 ###
 
 Bot "Main loop"
@@ -47,6 +61,7 @@ Meteor.startup ->
     @LoginModHash = null
     @LoginCookie = null
   BuildPostQueue()
+  CleanCommentQueue()
   console.log "===== STARTING LOOP ===="
   mainLoop()
 

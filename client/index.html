@@ -1,0 +1,45 @@
+
+<head>
+	<title>Repost Tracker Bot</title>
+</head>
+<body>
+	<div id="wrapper">
+		<div id="logo">
+		</div> <!-- end of logo -->
+		
+		<div id="main">
+			<div id="countdown">
+				{{>statistics}}
+					
+			</div> <!-- end of countdown -->
+			
+			<div id="bottom">
+                
+							
+			</div> <!-- end of bottom div -->
+			
+
+			
+	
+		</div> <!-- end of main -->
+		<!-- start of the javascript code that handles the countdown -->
+		
+	</div> <!-- end of wrapper -->
+	
+</body>
+
+<template name="statistics">
+    <div class="dash weeks_dash">
+        <span class="dash_title">comments</span>
+        <div class="digit">{{commentCountFirstDigit}}</div>
+        <div class="digit">{{commentCountSecondDigit}}</div>
+        <div class="digit">{{commentCountThirdDigit}}</div>
+    </div>
+
+    <div class="dash days_dash">
+        <span class="dash_title">k tracked posts</span>
+        <div class="digit">{{postCountFirstDigit}}</div>
+        <div class="digit">{{postCountSecondDigit}}</div>
+        <div class="digit">{{postCountThirdDigit}}</div>
+    </div>
+</template>

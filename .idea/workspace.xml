@@ -4,7 +4,7 @@
     <list default="true" id="ae69d022-b00c-4b2d-af58-661ea7188a10" name="Default" comment="" />
     <ignored path="repostbot.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/repostbot.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371080754526" ignored="false" />
+    <file path="/repostbot.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371093935416" ignored="false" />
     <file path="$USER_HOME$/Dropbox/meteor/HandsonRedditMeteor/README.md" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1370982226684" ignored="false" />
     <file path="/README.md" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1370982225853" ignored="false" />
     <file path="$USER_HOME$/Dropbox/meteor/HandsonRedditMeteor/smart.json" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1370982262161" ignored="false" />
@@ -17,17 +17,17 @@
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/spark/spark.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371004758536" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/livedata/sockjs-0.3.4.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371065235765" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/reload/reload.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1370993852449" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery/jquery.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371080768334" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/jquery/jquery.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371093388132" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/handlebars/evaluate.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1370993852449" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/templating/deftemplate.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371064826385" ignored="false" />
-    <file path="/PostQueue.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371080671917" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/minimongo/minimongo.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371006197869" ignored="false" />
-    <file path="/PostQueueProcessor.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371080791112" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/templating/deftemplate.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371092883182" ignored="false" />
+    <file path="/PostQueue.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371093290234" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/minimongo/minimongo.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371093996483" ignored="false" />
+    <file path="/PostQueueProcessor.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371093150473" ignored="false" />
     <file path="/IgnoreList.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371079689896" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/meteor/client_environment.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371002693724" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/meteor/server_environment.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371002693724" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/mongo-livedata/mongo_driver.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371080768334" ignored="false" />
-    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/livedata/livedata_connection.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371004598826" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/mongo-livedata/mongo_driver.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371089583497" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/livedata/livedata_connection.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371093863621" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/random/random.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371004598826" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/random/random.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371004758536" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/livedata/livedata_connection.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371004598826" ignored="false" />
@@ -37,10 +37,16 @@
     <file path="/LoginManager.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371052012870" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/ejson/ejson.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371064918783" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/ejson/ejson.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371052244922" ignored="false" />
-    <file path="/CommentPoster.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371067282632" ignored="false" />
+    <file path="/CommentPoster.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371089745940" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/cron-tick/cron.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371064664014" ignored="false" />
     <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/packages/http/httpcall_common.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371064918783" ignored="false" />
     <file path="/dummy.txt" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371064970430" ignored="false" />
+    <file path="/index.html" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371094011917" ignored="false" />
+    <file path="/publishes.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371092762147" ignored="false" />
+    <file path="/template.coffee" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371092843910" ignored="false" />
+    <file path="/style.css" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371091673887" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/static_cacheable/client/template.coffee.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371093838684" ignored="false" />
+    <file path="$PROJECT_DIR$/.meteor/local/build/app/packages/deps/deps.js" changelist="ae69d022-b00c-4b2d-af58-661ea7188a10" time="1371093863621" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,34 +69,34 @@
       <file leaf-file-name="repostbot.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/repostbot.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="27" selection-start="2027" selection-end="2027" vertical-scroll-proportion="0.0">
+            <state line="22" column="40" selection-start="633" selection-end="633" vertical-scroll-proportion="-6.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginManager.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/utils/LoginManager.coffee">
+      <file leaf-file-name="template.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/template.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="29" selection-start="174" selection-end="201" vertical-scroll-proportion="-3.6">
+            <state line="20" column="45" selection-start="769" selection-end="769" vertical-scroll-proportion="-12.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommentFormatter.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/utils/CommentFormatter.coffee">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="19" selection-start="716" selection-end="716" vertical-scroll-proportion="-8.4">
+            <state line="16" column="16" selection-start="274" selection-end="274" vertical-scroll-proportion="0.24275362">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PostQueueProcessor.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="PostQueueProcessor.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/utils/PostQueueProcessor.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="61" selection-start="619" selection-end="619" vertical-scroll-proportion="0.23764259">
+            <state line="20" column="7" selection-start="732" selection-end="732" vertical-scroll-proportion="-6.0">
               <folding />
             </state>
           </provider>
@@ -99,7 +105,16 @@
       <file leaf-file-name="CommentPoster.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/utils/CommentPoster.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="34" selection-start="64" selection-end="64" vertical-scroll-proportion="-0.6">
+            <state line="10" column="83" selection-start="330" selection-end="371" vertical-scroll-proportion="-6.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="18" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -108,16 +123,16 @@
       <file leaf-file-name="PostQueue.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/utils/PostQueue.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="16" selection-start="1022" selection-end="1023" vertical-scroll-proportion="-9.22">
+            <state line="12" column="24" selection-start="465" selection-end="465" vertical-scroll-proportion="-7.2">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IgnoreList.coffee" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/IgnoreList.coffee">
+      <file leaf-file-name="publishes.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/clientinterface/publishes.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="149" selection-start="170" selection-end="170" vertical-scroll-proportion="-0.6">
+            <state line="5" column="11" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -137,19 +152,24 @@
         <option value="$PROJECT_DIR$/smart.json" />
         <option value="$PROJECT_DIR$/.meteor/local/build/app/server/utils/CommentFormatter.coffee" />
         <option value="$PROJECT_DIR$/server/utils/LoginManager.coffee" />
-        <option value="$PROJECT_DIR$/server/utils/CommentPoster.coffee" />
         <option value="$PROJECT_DIR$/server/utils/CommentFormatter.coffee" />
         <option value="$PROJECT_DIR$/server/IgnoreList.coffee" />
+        <option value="$PROJECT_DIR$/server/utils/CommentPoster.coffee" />
+        <option value="$PROJECT_DIR$/client/template.js" />
+        <option value="$PROJECT_DIR$/client/style.css" />
+        <option value="$PROJECT_DIR$/client/template.coffee" />
+        <option value="$PROJECT_DIR$/server/clientinterface/publishes.coffee" />
+        <option value="$PROJECT_DIR$/server/utils/PostQueueProcessor.coffee" />
         <option value="$PROJECT_DIR$/server/utils/PostQueue.coffee" />
         <option value="$PROJECT_DIR$/server/repostbot.coffee" />
-        <option value="$PROJECT_DIR$/server/utils/PostQueueProcessor.coffee" />
+        <option value="$PROJECT_DIR$/client/index.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="21" />
-    <option name="y" value="76" />
+    <option name="x" value="-16" />
+    <option name="y" value="22" />
     <option name="width" value="1260" />
     <option name="height" value="747" />
   </component>
@@ -240,111 +260,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value=".meteor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="repostbot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="repostbot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".meteor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="repostbot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="repostbot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".meteor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="repostbot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="repostbot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".meteor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="repostbot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="repostbot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".meteor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="server" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="utils" />
+              <option name="myItemId" value="clientinterface" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -358,19 +278,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value=".meteor" />
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="local" />
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repostbot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="repostbot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="client" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -386,7 +312,16 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
   <component name="RunManager">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -416,7 +351,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="21" y="76" width="1260" height="747" extended-state="0" />
+    <frame x="-16" y="22" width="1260" height="747" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -500,81 +435,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server/utils/CommentPoster.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="34" selection-start="64" selection-end="64" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/utils/PostQueue.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="12" selection-start="570" selection-end="570" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/IgnoreList.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="60" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/repostbot.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/repostbot.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/repostbot.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/repostbot.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="38" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/smart.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="35" selection-end="35" vertical-scroll-proportion="-1.25">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.meteor/local/build/app/server/utils/CommentPoster.coffee.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.08108108" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/utils/CommentPoster.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="34" selection-start="64" selection-end="64" vertical-scroll-proportion="-0.6">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/repostbot.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="27" selection-start="2027" selection-end="2027" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/utils/LoginManager.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="29" selection-start="174" selection-end="201" vertical-scroll-proportion="-3.6">
@@ -596,16 +456,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/utils/PostQueue.coffee">
+    <entry file="file://$PROJECT_DIR$/public/images/facebook.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/input.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logo.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/main.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/box.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="16" selection-start="1022" selection-end="1023" vertical-scroll-proportion="-9.22">
+        <state line="44" column="18" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/template.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="45" selection-start="769" selection-end="769" vertical-scroll-proportion="-12.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/clientinterface/publishes.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="11" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/utils/CommentPoster.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="83" selection-start="330" selection-end="371" vertical-scroll-proportion="-6.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/utils/PostQueueProcessor.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="61" selection-start="619" selection-end="619" vertical-scroll-proportion="0.23764259">
+        <state line="20" column="7" selection-start="732" selection-end="732" vertical-scroll-proportion="-6.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/utils/PostQueue.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="24" selection-start="465" selection-end="465" vertical-scroll-proportion="-7.2">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/repostbot.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="40" selection-start="633" selection-end="633" vertical-scroll-proportion="-6.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="16" selection-start="274" selection-end="274" vertical-scroll-proportion="0.24275362">
           <folding />
         </state>
       </provider>
