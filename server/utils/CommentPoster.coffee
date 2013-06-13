@@ -1,4 +1,4 @@
-PostingQueuedComments = true #TODO CHANGE
+PostingQueuedComments = false
 CommentPosterCron = new Cron(1000)
 #Post a single comment, one per 2 seconds
 @PostQueuedCommentsLoop = ()->
