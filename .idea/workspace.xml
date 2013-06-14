@@ -81,7 +81,7 @@
       <file leaf-file-name="PostQueueProcessor.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/utils/PostQueueProcessor.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="9" selection-start="2103" selection-end="2103" vertical-scroll-proportion="0.45652175">
+            <state line="4" column="3" selection-start="86" selection-end="86" vertical-scroll-proportion="0.16304348">
               <folding />
             </state>
           </provider>
@@ -490,7 +490,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/utils/PostQueueProcessor.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="9" selection-start="2103" selection-end="2103" vertical-scroll-proportion="0.45652175">
+        <state line="4" column="3" selection-start="86" selection-end="86" vertical-scroll-proportion="0.16304348">
           <folding />
         </state>
       </provider>

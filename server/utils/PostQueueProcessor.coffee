@@ -2,7 +2,7 @@
 @ProcessPostQueue = ()->
   if @ProcessingPosts
     return
-  console.log "Processing posts"
+  #console.log "Processing posts"
   @ProcessingPosts = true
   try
     #Run through the queue of posts and check if it has already been posted before, queue a snotty comment
