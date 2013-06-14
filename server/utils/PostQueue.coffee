@@ -19,7 +19,7 @@
    # if @NewestPostID is latestProcessed.id
    #   @FetchingPosts = false
    #   return
-    console.log "Starting at post ID: "+@NewestPostID
+    #console.log "Starting at post ID: "+@NewestPostID
     request = request.after(@NewestPostID)
 
   @PostQueue = []
@@ -28,6 +28,6 @@
   @RequestHistory.push (new Date().getTime())
   request.exe (err, data, res)->
     @PostQueue = data.data.children
-    console.log ""+@PostQueue.length+" new posts queued!"
+    #console.log ""+@PostQueue.length+" new posts queued!"
     @NewestPostID = data.data.after
     @FetchingPosts = false

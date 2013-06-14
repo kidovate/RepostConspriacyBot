@@ -43,7 +43,7 @@ CleanCommentQueue = ->
   queuedComments.forEach (post)->
     i++
     if i > 15
-      console.log "Removing: "+post._id
+      #console.log "Removing: "+post._id
       @CommentQueue.remove({_id: post._id})
 
 ###

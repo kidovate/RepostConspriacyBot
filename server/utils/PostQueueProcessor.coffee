@@ -58,8 +58,8 @@
 
       if @RequestCount >= @RequestLimit
         deferredPosts = @PostQueue.slice i
-        if deferredPosts.length isnt 0
-          console.log "Deferring "+deferredPosts.length+" posts, request limit reached..."
+        #if deferredPosts.length isnt 0
+          #console.log "Deferring "+deferredPosts.length+" posts, request limit reached..."
         break
     @PostQueue = deferredPosts
     #if ignoredCount > 0
