@@ -2,6 +2,7 @@
 @ProcessPostQueue = ()->
   if @ProcessingPosts
     return
+  ignoredSubreddits = @IgnoredSubreddits
   #console.log "Processing posts"
   @ProcessingPosts = true
   try
@@ -18,7 +19,7 @@
         continue
 
       #Ignore if domain is in the ignore list
-      if postData.domain in @IgnoredDomains or postData.domain.substring(0,4) is "self"
+      if postData.domain in @IgnoredDomains or postData.domain.substring(0,4) is "self" or postData.subreddit in ignoredSubreddits
         #console.log "Ignoring "+postData.title.substring(0,50)+" - ignored domain "+postData.domain
         ignoredCount++
         @ProcessedPosts.insert
